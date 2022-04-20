@@ -5,7 +5,6 @@ title: Testingg
 excerpt: Testingg
 date: 2022-04-19T17:00:00+00:00
 hero: "/images/favicon.svg"
-draft: true
 
 ---
 ## What is Lorem Ipsum?
